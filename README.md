@@ -47,7 +47,7 @@ To run this project locally, follow these steps:
 
    ```bash
    cd ..
-   cd FRONTEND/append
+   cd FRONTEND
    npm install
    ```
 
